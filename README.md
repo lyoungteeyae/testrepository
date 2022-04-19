@@ -1,2 +1,2 @@
 # testrepository
-this is initial commit file
+이태영
